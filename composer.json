@@ -2,7 +2,7 @@
 	"name": "vml/customerImport",
 	"description": "The RFQ system empowers customers to request quotes for configurable products, custom services, or bulk quantities the business offers.",
 	"require": {
-	  "vml/customerImport": "^1.5.7"
+	  "vml/customerImport": "1.0.0"
 	},
 	"type": "magento2-module",
 	"version": "4.7.12",
